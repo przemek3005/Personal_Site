@@ -1,0 +1,154 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  color: #66bfbf;
+  padding-bottom: 8px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 0 0 6px 0;
+  width: 4%;
+  color: #EAF6F6;
+  margin: 100px auto 100px auto;
+}
+
+.pro {
+  border-style: solid;
+  border-color: #ffdc34;
+  border-width: 0 3px 0 3px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #c3f0ca;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0 100px 0;
+}
+
+.profile1-pic {
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+}
+
+.coffee-gif {
+  width: 30%;
+  float: left;
+  margin-right: 40px;
+}
+
+.skating-pic {
+  width: 18%;
+  float: right;
+  margin-left: 20px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.sun {
+  position: absolute;
+  left: 150px;
+  top: 100px;
+  height: 100px;
+  width: 100px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 180px;
+  bottom: 300px;
+}
+
+.profile {
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-text {
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+
+.btn {
+  border-radius: 8px;
+  box-shadow: 0 5px 11px #666666;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 20px;
+  background: #66bfbf;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #7acfcf;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #7acfcf;
+  padding: 50px 0 10px;
+}
+
+
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0 10px 0;
+}
